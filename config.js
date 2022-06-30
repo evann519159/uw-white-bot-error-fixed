@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
+global.owner = ['212657003067'] //ur owner number
 global.ownername = "Udavin Wijesundara"
 global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
 global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
@@ -55,12 +55,12 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Udavin Wijesundara"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.ownertag = ['212657003067'] //ur owner tag
+global.ownernummenu = ['212657003067'] //ur owner number in menu and all
+global.watermark = "White angilo WhatsApp Bot." //ur watermark
+global.botscript = "https://t.me/+nMxiuMsEfok3NDE0"
+global.linkz1 = "https://chat.whatsapp.com/G1EqsUwjV26EqRfFH2IlqQ"
+global.linkz2 = "https://chat.whatsapp.com/C9wPrICP2sXAntxec1qsLe"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
